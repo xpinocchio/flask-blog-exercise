@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb6e92e8-e090-46d2-b8ef-116ebc6b0097" name="Changes" comment="fix Procfile space before app" />
+    <list default="true" id="bb6e92e8-e090-46d2-b8ef-116ebc6b0097" name="Changes" comment="try without email validators">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636819525685</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="try without email validators">
+      <created>1636819708486</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636819708486</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +130,7 @@
     <MESSAGE value="Add Procfile and update requirements.txt" />
     <MESSAGE value="remove debug on app.run()" />
     <MESSAGE value="fix Procfile space before app" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix Procfile space before app" />
+    <MESSAGE value="try without email validators" />
+    <option name="LAST_COMMIT_MESSAGE" value="try without email validators" />
   </component>
 </project>
