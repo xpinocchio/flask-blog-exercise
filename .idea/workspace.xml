@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bb6e92e8-e090-46d2-b8ef-116ebc6b0097" name="Changes" comment="fix Procfile">
+    <list default="true" id="bb6e92e8-e090-46d2-b8ef-116ebc6b0097" name="Changes" comment="add email validation again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636819879478</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fix Procfile">
+      <created>1636820579948</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636820579948</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add email validation again">
+      <created>1636820856585</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636820856585</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,7 +153,8 @@
     <MESSAGE value="remove debug on app.run()" />
     <MESSAGE value="fix Procfile space before app" />
     <MESSAGE value="try without email validators" />
-    <MESSAGE value="fix Procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix Procfile" />
+    <MESSAGE value="connect to PostgreSQL" />
+    <MESSAGE value="add email validation again" />
+    <option name="LAST_COMMIT_MESSAGE" value="add email validation again" />
   </component>
 </project>
